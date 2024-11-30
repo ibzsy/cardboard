@@ -1,5 +1,5 @@
 # cardboard
-A '📦-inspired' Interpreted Language Implemented In Go
+A '📦-inspired' Interpreted Language Implemented In Go-lang!
 
 # Example Script
 
