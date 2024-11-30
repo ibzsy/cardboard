@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"cardboard/lexer"
-	"cardboard/parser/ast"
+	"github.com/ibzsy/cardboard/lexer"
+	"github.com/ibzsy/cardboard/parser/ast"
 	"fmt"
 	"testing"
 )

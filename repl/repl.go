@@ -2,10 +2,10 @@ package repl
 
 import (
 	"bufio"
-	"cardboard/eval"
-	"cardboard/lexer"
-	"cardboard/object"
-	"cardboard/parser"
+	"github.com/ibzsy/cardboard/eval"
+	"github.com/ibzsy/cardboard/lexer"
+	"github.com/ibzsy/cardboard/object"
+	"github.com/ibzsy/cardboard/parser"
 	"fmt"
 	"os"
 	"strings"

@@ -1,6 +1,6 @@
 package main
 
-import "cardboard/repl"
+import "github.com/ibzsy/cardboard/repl"
 
 func main() {
 	// READ -> EVALUATE -> PRINT -> LOOP

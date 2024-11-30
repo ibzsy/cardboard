@@ -1,10 +1,11 @@
 package eval
 
 import (
-	"cardboard/lexer"
-	"cardboard/object"
-	"cardboard/parser"
 	"testing"
+
+	"github.com/ibzsy/cardboard/lexer"
+	"github.com/ibzsy/cardboard/object"
+	"github.com/ibzsy/cardboard/parser"
 )
 
 func TestEvalIntegerExpression(t *testing.T) {

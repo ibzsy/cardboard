@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"cardboard/lexer"
-	"cardboard/lexer/token"
-	"cardboard/parser/ast"
+	"github.com/ibzsy/cardboard/lexer"
+	"github.com/ibzsy/cardboard/lexer/token"
+	"github.com/ibzsy/cardboard/parser/ast"
 	"fmt"
 	"strconv"
 )

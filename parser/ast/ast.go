@@ -2,7 +2,7 @@ package ast
 
 import (
 	"bytes"
-	"cardboard/lexer/token"
+	"github.com/ibzsy/cardboard/lexer/token"
 )
 
 type Node interface {

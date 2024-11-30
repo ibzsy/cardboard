@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"cardboard/lexer/token"
+	"github.com/ibzsy/cardboard/lexer/token"
 	"unicode"
 )
 

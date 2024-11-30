@@ -1,9 +1,10 @@
 package eval
 
 import (
-	"cardboard/object"
-	"cardboard/parser/ast"
 	"fmt"
+
+	"github.com/ibzsy/cardboard/object"
+	"github.com/ibzsy/cardboard/parser/ast"
 )
 
 var NULL = &object.Null{}

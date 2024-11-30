@@ -2,7 +2,7 @@ package object
 
 import (
 	"bytes"
-	"cardboard/parser/ast"
+	"github.com/ibzsy/cardboard/parser/ast"
 	"strconv"
 	"strings"
 )
